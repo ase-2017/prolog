@@ -22,7 +22,7 @@ parent(CHILD,PARENT):- child(PARENT,CHILD).
 
 % You can run a query by entering
 % the string "e01:parent(claudia,PARENT)." in the prolog console
-% pressing space will produce more results if available
+% pressing space will produce more results if available or 'false' if no more results are found
   
 
 
